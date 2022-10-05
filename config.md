@@ -15,7 +15,8 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "JuliaCN Meetups"
 website_descr = "JuliaCN meetup website"
-website_url   = "https://cn.julialang.org/meetup-website/"
+prepath = get(ENV, "PREVIEW_FRANKLIN_PREPATH", "meetup-website") # In the third argument put the prepath you normally use
+website_url = get(ENV, "PREVIEW_FRANKLIN_WEBSITE_URL", "cn.julialang.org") # Just put the website name
 +++
 
 <!--
