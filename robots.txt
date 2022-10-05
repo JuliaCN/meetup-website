@@ -1,4 +1,4 @@
-Sitemap: https://juliacn.github.io/meetup-website/sitemap.xml
+Sitemap: https://cn.julialang.org/meetup-website/sitemap.xml
 
 User-agent: *
 Disallow:

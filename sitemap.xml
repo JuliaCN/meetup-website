@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://juliacn.github.io/meetup-website/before2021/index.html</loc>
+    <loc>https://cn.julialang.org/meetup-website/before2021/index.html</loc>
     <lastmod>2022-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://juliacn.github.io/meetup-website/404/index.html</loc>
+    <loc>https://cn.julialang.org/meetup-website/404/index.html</loc>
     <lastmod>2022-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://juliacn.github.io/meetup-website/2022/index.html</loc>
+    <loc>https://cn.julialang.org/meetup-website/2022/index.html</loc>
     <lastmod>2022-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://juliacn.github.io/meetup-website/index.html</loc>
+    <loc>https://cn.julialang.org/meetup-website/index.html</loc>
     <lastmod>2022-10-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
