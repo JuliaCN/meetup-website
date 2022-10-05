@@ -23,4 +23,4 @@ tags = ["past", "meetup", "2018", "2019", "2020", "2021", "活动"]
 ## 2021
 (Sponsor List, Committee members)
 
-2021年在线举行的JuliaCN见面会的材料归档于Github仓库[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Online2020).
+2021年在线举行的JuliaCN见面会的材料归档于Github仓库[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Online2021).

@@ -89,11 +89,15 @@
 
 .table-program tr th {
     border:none;
+    font-size: 0.8em;
 }
 
 .table-program tr td {
-    padding-left:20px;
-    padding-right:20px;
+    padding-left:0.5em;
+    padding-right:0.5em;
+    padding-bottom:0.5em;
+    text-align: center;
+    font-size: 0.8em;
 }
 .table-program caption {
     caption-side:bottom;
@@ -101,4 +105,16 @@
 .table-program caption ul li {
     font-size: 0.8em;
     text-align:left;
+}
+
+.nounderline:link {
+  background-repeat: unset;
+}
+
+.header-anchor:link {
+  background-repeat: unset;
+}
+
+.header-anchor{
+  font-size: 1.2em;
 }
