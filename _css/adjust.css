@@ -108,10 +108,12 @@
 }
 
 .nounderline:link {
+  background:none;
   background-repeat: unset;
 }
 
 .header-anchor:link {
+  background:none;
   background-repeat: unset;
 }
 
