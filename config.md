@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "JuliaCN Meetups"
 website_descr = "JuliaCN meetup website"
-website_url   = "https://juliacn.github.io/meetup-website/"
+website_url   = "https://cn.julialang.org/meetup-website/"
 +++
 
 <!--
