@@ -89,7 +89,7 @@
 
 .table-program tr th {
     border:none;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .table-program tr td {
@@ -97,13 +97,13 @@
     padding-right:0.5em;
     padding-bottom:0.5em;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 .table-program caption {
     caption-side:bottom;
 }
 .table-program caption ul li {
-    font-size: 0.8em;
+    font-size: 0.9em;
     text-align:left;
 }
 
@@ -117,4 +117,11 @@
 
 .header-anchor{
   font-size: 1.2em;
+}
+
+.table-sponsor tr td img{
+  max-width:60px; width:100%
+}
+.table-sponsor tr td{
+  padding-bottom: 2em;
 }
