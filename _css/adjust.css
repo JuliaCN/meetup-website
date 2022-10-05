@@ -86,3 +86,19 @@
 @media (min-width: 1000px) {
   .franklin-content { width: 660px; }
 }
+
+.table-program tr th {
+    border:none;
+}
+
+.table-program tr td {
+    padding-left:20px;
+    padding-right:20px;
+}
+.table-program caption {
+    caption-side:bottom;
+}
+.table-program caption ul li {
+    font-size: 0.8em;
+    text-align:left;
+}
