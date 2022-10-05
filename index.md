@@ -1,5 +1,5 @@
 @def title = "JuliaCN Meetups"
-@def tags = ["julia", "juliacn", "meetup"]
+@def tags = ["julia", "juliacn", "meetup", "见面会"]
 
 # JuliaCN 见面会
 
