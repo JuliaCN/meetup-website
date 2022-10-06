@@ -9,6 +9,21 @@ maxtoclevel=2
 
 \toc
 
+## 2015
+
+第一次JuliaCN见面会在中国科学技术大学举办
+
+## 2016
+
+![julia-meetup-haplox](https://user-images.githubusercontent.com/8445510/194199393-b72d1f92-10f9-44ac-ac8a-6d0f1d0f2fc8.jpeg)
+
+
+[微信公众号相关文章](https://mp.weixin.qq.com/s/_LW8Ia1fD72h-e6QUGRaug)
+
+### Sponsors
+
+[深圳Haplox公司](https://www.haplox.cn/)
+
 ## 2018
 
 2018年在北京举行的JuliaCN见面会的材料归档于Github仓库[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2018).
