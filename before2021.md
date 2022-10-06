@@ -1,6 +1,6 @@
 +++
 title = "Past Events"
-tags = ["past", "meetup", "2018", "2019", "2020", "2021", "活动"]
+tags = ["past", "meetup", "2015", "2016", "2018", "2019", "2020", "2021", "活动"]
 maxtoclevel=2
 +++
 
@@ -8,6 +8,21 @@ maxtoclevel=2
 # 过去的活动
 
 \toc
+
+## 2015
+
+第一次JuliaCN见面会在中国科学技术大学举办
+
+## 2016
+
+![julia-meetup-haplox](https://user-images.githubusercontent.com/8445510/194199393-b72d1f92-10f9-44ac-ac8a-6d0f1d0f2fc8.jpeg)
+
+
+[微信公众号相关文章](https://mp.weixin.qq.com/s/_LW8Ia1fD72h-e6QUGRaug)
+
+### Sponsors
+
+[深圳Haplox公司](https://www.haplox.cn/)
 
 ## 2018
 
