@@ -26,7 +26,7 @@ maxtoclevel=2
 
 ## 2018
 
-2018年在北京举行的JuliaCN见面会的材料归档于Github仓库[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2018).
+2018年在北京中国科学院软件研究所举行的JuliaCN见面会的材料归档于Github仓库[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2018).
 
 ### Sponsors
 ~~~
@@ -40,7 +40,7 @@ maxtoclevel=2
 
 ## 2019
 
-2019年在北京举行的JuliaCN见面会的材料归档于Github仓库[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2019).
+2019年在北京微软大厦举行的JuliaCN见面会的材料归档于Github仓库[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Beijing2019).
 
 ### Sponsors
 ~~~
