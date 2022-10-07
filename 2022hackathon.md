@@ -5,7 +5,7 @@ tags = ["2022", "juliacn", "meetup", "winter", "Hackathon", "见面会", "冬季
 
 # JuliaCN 2022 冬季见面会黑客松环节介绍
 
-黑客松于香港科技大学 (广州校区) 在线举行，主题是交友与新手指导。
+黑客松于香港科技大学 (广州校区) 线下举行，主题是交友与新手指导。
 于12月4日上午 10AM-12PM 在活动教室进行黑客松第一阶段。
 参与黑客松的朋友们在教室内自我介绍，并可以介绍自己常用的软件包并介绍其一个或多个函待解决的一个 Github issue 作为赏金 issue。比如我是 Julia 软件包 Yao.jl 的老用户，上午自我介绍的时候我介绍量子模拟软件Yao，并指定里面的 [382号issue](https://github.com/QuantumBFS/Yao.jl/issues/382) 为赏金issue。
 因此我们需要征募一些能够提出赏金 issue 的 Julia 老手，推荐自我介绍时间 + issue介绍时间合计为15分钟 ([点击填写问卷报名](https://jinshuju.net/f/JXewGD))。
