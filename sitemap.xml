@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+    <loc>cn.julialang.org/2022hackathon/index.html</loc>
+    <lastmod>2022-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>cn.julialang.org/before2021/index.html</loc>
     <lastmod>2022-10-07</lastmod>
     <changefreq>monthly</changefreq>
