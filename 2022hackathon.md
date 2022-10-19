@@ -14,7 +14,9 @@ tags = ["2022", "juliacn", "meetup", "winter", "Hackathon", "见面会", "冬季
 被指导的新手可以获得主办方颁发的200元人民币的奖励，对应的老手可以获得 JuliaCN 社区贡献者特殊贴纸。
 
 ### 例（老手）
-我是 Julia 软件包 Yao.jl 的老手，上午自我介绍的时候我用12分钟介绍了自己的背景，介绍量子模拟软件Yao，并指定里面的 [381号issue](https://github.com/QuantumBFS/Yao.jl/issues/381) 和 [382号issue](https://github.com/QuantumBFS/Yao.jl/issues/382) 为赏金issue。
+我是 Julia 软件包 Yao.jl 的老手，上午自我介绍的时候我用12分钟介绍了自己的背景，介绍量子模拟软件Yao，并指定里面的 [381号issue](https://github.com/QuantumBFS/Yao.jl/issues/381) 和 [382号issue](https://github.com/QuantumBFS/Yao.jl/issues/382) 为赏金issue，得到了主办方的 JuliaCN 社区特殊贡献者贴纸。
+下午星巴克的活动中，我指导一个新手提交了一个 pull request 解决该 issue。
+
 ### 例（新手）：
 我是一个 Julia 新手，刚开始使用，但是暂时还没有贡献过开源活动，上午自我介绍的时候，我用4分钟介绍了自己，并找到了想要贡献的主题。
 下午，我在星巴克通过和发布 issue 的 julia 老手交流，我成功的解决了这个 issue。随后，主办方给了我 200 元人民币作为解决issue的奖励。
