@@ -14,9 +14,7 @@ tags = ["juliacn", "meetup", "见面会", "funding", "赞助"]
 
 ## 资助的方式
 
-由于 JuliaCN 为非正式组织，没有对公账户，资助的形式主要可以有以下两种。
-1. 报销的方式，JuliaCN 将报告人餐饮和人员差旅的票据提供给贵公司财务报销。
-2. 资助给集智俱乐部，依托集智管理这笔资金来支持 JuliaCN 的活动。
+资助的形式为与 JuliaCN 的保护伞组织，非营利机构[集智科学研究中心](https://swarma.org/)签订赞助合同，集智将会用这笔资金来支持 JuliaCN 的会议和汉化等活动。
 
 无论选择何种方式赞助，或是希望成为长期合作伙伴，请联系委员会成员刘贵欣同学: [liugx2022@shanghaitech.edu.cn](mailto:liugx2022@shanghaitech.edu.cn)。
 
