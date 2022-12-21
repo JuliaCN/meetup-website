@@ -11,10 +11,10 @@ A manifest is provided to exactly reproduce the package dependencies as used by 
 
 ### To serve
 ```bash
-$ julia --project -e "using Franklin; serve()"
+julia --project -e "using Franklin; serve()"
 ```
 
 ### To publish
 ```bash
-$ julia --project -e "using Franklin; publish()"
+julia --project -e "using Franklin; publish()"
 ```
