@@ -127,3 +127,7 @@
 .table-sponsor tr td{
   padding-bottom: 2em;
 }
+
+table td, table td * {
+    vertical-align: top;
+}
